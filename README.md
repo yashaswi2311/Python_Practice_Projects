@@ -1,2 +1,2 @@
 # Python_Practice_Projects
-Basic Python Projects
+Adding projects and descriptions in the next few days
